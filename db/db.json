@@ -1,0 +1,28 @@
+{
+  "products": [{
+      "id": 11,
+      "name": "Cheese - St. Paulin",
+      "price": 83.98
+    },
+    {
+      "id": 12,
+      "name": "Potatoes - Purple, Organic",
+      "price": 76.46
+    },
+    {
+      "id": 13,
+      "name": "Kohlrabi",
+      "price": 80.8
+    },
+    {
+      "id": 14,
+      "name": "Gatorade - Cool Blue Raspberry",
+      "price": 81.16
+    },
+    {
+      "id": 15,
+      "name": "Bread - Roll, Soft White Round",
+      "price": 13.97
+    }
+  ]
+}
